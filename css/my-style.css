@@ -8,6 +8,11 @@
   font-size: 16px;
   font-weight: 200;
   outline: 1px solid lime;
+  /*
+  prueba de git pull origin master
+  1.1
+  20201020
+  */
 }
 /*nav--------------------------------- */
 #one:checked ~ .section-one {transform: translate(0%);}
