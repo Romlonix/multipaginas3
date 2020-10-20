@@ -67,6 +67,9 @@ section {
   text-transform: uppercase;
   margin-top: 20px;
 }
+.section-one p {
+  font-size: 1em;
+}
 .section-two{
   background: rgb(1,31,254);
   background: linear-gradient(45deg, rgba(1,31,254,1) 0%, rgba(93,1,254,1) 100%);
